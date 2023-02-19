@@ -21,29 +21,43 @@
 
 ## Data
 - Data Source:https://ourworldindata.org/life-expectancy
-<table class="MsoNormalTable" border="0" cellspacing="0" style="border-collapse:collapse;margin-left:3.9000pt;mso-table-layout-alt:fixed;
-border:none;mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;"><tbody><tr style="height:31.1000pt;"><td width="104" valign="top" rowspan="3" style="width:104.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
-mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
-border-top:none;mso-border-top-alt:none;border-bottom:none;"><p class="MsoNormal"><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><font face="Times New Roman">Explanation</font></span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="104" valign="top" style="width:104.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+<table class="MsoNormalTable" border="0" cellspacing="0" style="border-collapse:collapse;margin-left:6.7500pt;margin-right:6.7500pt;
+mso-table-layout-alt:fixed;border:none;mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;"><tbody><tr style="height:31.1000pt;"><td width="104" valign="top" rowspan="3" style="width:104.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
 border-top:none;mso-border-top-alt:none;border-bottom:none;
-mso-border-bottom-alt:none;"><p class="MsoNormal"><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><font face="Times New Roman">Queried Data</font></span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td></tr><tr style="height:31.1000pt;"><td width="104" valign="top" style="width:104.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-bottom-alt:none;"><p class="MsoNormal" style="mso-pagination:widow-orphan;"><span style="font-family:'Times New Roman Regular';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;">Explanation</span><span style="font-family:'Times New Roman Regular';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="339" valign="top" style="width:339.7500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
 border-top:none;mso-border-top-alt:none;border-bottom:none;
-mso-border-bottom-alt:none;"><p class="MsoNormal"><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><font face="Times New Roman">Processed Data</font></span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td></tr><tr style="height:31.1000pt;"><td width="104" valign="top" style="width:104.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-bottom-alt:none;"><p class="MsoNormal" style="mso-pagination:widow-orphan;"><span style="font-family:'Times New Roman Regular';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;"><a href="https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/stats201-PS2-Yiyang/main/data/Queried_Data/life-expectancy.csv">life-expectancy</a></span><span style="font-family:'Times New Roman Regular';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td></tr><tr style="height:31.1000pt;"><td width="339" valign="top" style="width:339.7500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
 border-top:none;mso-border-top-alt:none;border-bottom:none;
-mso-border-bottom-alt:none;"><p class="MsoNormal"><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><font face="Times New Roman">Analyze Data</font></span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td></tr><tr style="height:31.1000pt;"><td width="104" valign="top" rowspan="2" style="width:104.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
-mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
-border-top:none;mso-border-top-alt:none;border-bottom:none;"><p class="MsoNormal"><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><font face="Times New Roman">Prediction</font></span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="104" valign="top" style="width:104.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
-mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
-border-top:none;mso-border-top-alt:none;border-bottom:none;
-mso-border-bottom-alt:none;"><p class="MsoNormal"><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><font face="Times New Roman">Process_Data_Prepare_X_and_Y_for_Classification_and_Regressions</font></span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td></tr><tr style="height:16.7500pt;"><td width="104" valign="top" style="width:104.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-bottom-alt:none;"><p class="MsoNormal" style="mso-pagination:widow-orphan;"><span style="font-family:'Times New Roman Regular';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;"><a href="https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/stats201-PS2-Yiyang/main/data/Queried_Data/HL.csv">Queried Data</a></span><span style="font-family:'Times New Roman Regular';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td></tr><tr style="height:31.1000pt;"><td width="339" valign="top" style="width:339.7500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
 border-top:none;mso-border-top-alt:none;border-bottom:none;
-mso-border-bottom-alt:none;"><p class="MsoNormal"><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><font face="Times New Roman">Analyze_Data_Machine_Learning_for_Predicting_Market_Congestion_ipynb</font></span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td></tr></tbody></table>
-
-
+mso-border-bottom-alt:none;"><p class="MsoNormal" style="mso-pagination:widow-orphan;"><span style="font-family:'Times New Roman Regular';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;"><a href="https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/stats201-PS2-Yiyang/main/data/Processed_Data/CHL.csv">Process<font face="Times New Roman Regular">ed</font>&nbsp;Data</a></span><span style="font-family:'Times New Roman Regular';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td></tr><tr style="height:31.1000pt;"><td width="104" valign="top" rowspan="2" style="width:104.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
+border-top:none;mso-border-top-alt:none;border-bottom:none;
+mso-border-bottom-alt:none;"><p class="MsoNormal" style="mso-pagination:widow-orphan;"><span style="font-family:'Times New Roman Regular';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;">Prediction</span><span style="font-family:'Times New Roman Regular';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="339" valign="top" style="width:339.7500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
+border-top:none;mso-border-top-alt:none;border-bottom:none;
+mso-border-bottom-alt:none;"><p class="MsoNormal" style="mso-pagination:widow-orphan;"><span style="font-family:'Times New Roman Regular';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;"><a href="https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/stats201-PS2-Yiyang/main/data/Processed_Data/Regression_Train.csv">Regression&nbsp;Train</a></span><span style="font-family:'Times New Roman Regular';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td></tr><tr style="height:16.7500pt;"><td width="339" valign="top" style="width:339.7500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
+border-top:none;mso-border-top-alt:none;border-bottom:none;
+mso-border-bottom-alt:none;"><p class="MsoNormal" style="mso-pagination:widow-orphan;"><span style="font-family:'Times New Roman Regular';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;"><a href="https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/stats201-PS2-Yiyang/main/data/Processed_Data/Regression_Test.csv">Regression&nbsp;Test</a></span><span style="font-family:'Times New Roman Regular';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td></tr></tbody></table>
 
 ## Code
 - Query Data

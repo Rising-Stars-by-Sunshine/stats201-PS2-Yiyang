@@ -1,10 +1,9 @@
-# Title [How to Choice a Good Title?](https://www.nature.com/articles/s41562-021-01152-2)
+# Machine Learning for China Life Expectancy
 ## Project information
-- **Author**: [First Name][Last Name], [Major], [Class], Duke Kunshan University
+- **Author**: Yiyang Zhang, Computation and Design with tracks in Digital Media, Class of 2025, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
-- **Disclaimer**: Submissions to the Problem Set 1 for STATS201 Introduction to Machine Learning for Social Science, 2023 Spring Term (Seven Week - First) instructed by Prof. Luyao Zhang at Duke Kunshan University.
-- **Acknowledgments**: [How to Acknowledge?](https://www.scribbr.co.uk/thesis-dissertation/acknowledgements/)
-[notes: please include all professors, students, and staff who have contributed to your completetion of the project.]
+- **Disclaimer**: Submissions to the Problem Set 2 for STATS201 Introduction to Machine Learning for Social Science, 2023 Spring Term (Seven Week - First) instructed by Prof. Luyao Zhang at Duke Kunshan University.
+- **Acknowledgments**: Thanks for Xintong Wu's encouragement and Shiran Yuan's suggestion on the selection of timeline.
 - **Project Summary**: 
   - [Summarize the Background/Motivation]
   - [Research Questions]
@@ -21,10 +20,34 @@
 
 
 ## Data
+<table class="MsoNormalTable" border="0" cellspacing="0" style="border-collapse:collapse;margin-left:3.9000pt;mso-table-layout-alt:fixed;
+border:none;mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;"><tbody><tr style="height:31.1000pt;"><td width="104" valign="top" rowspan="3" style="width:104.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
+border-top:none;mso-border-top-alt:none;border-bottom:none;"><p class="MsoNormal"><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><font face="Times New Roman">Explanation</font></span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="104" valign="top" style="width:104.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
+border-top:none;mso-border-top-alt:none;border-bottom:none;
+mso-border-bottom-alt:none;"><p class="MsoNormal"><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><font face="Times New Roman">Queried Data</font></span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td></tr><tr style="height:31.1000pt;"><td width="104" valign="top" style="width:104.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
+border-top:none;mso-border-top-alt:none;border-bottom:none;
+mso-border-bottom-alt:none;"><p class="MsoNormal"><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><font face="Times New Roman">Processed Data</font></span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td></tr><tr style="height:31.1000pt;"><td width="104" valign="top" style="width:104.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
+border-top:none;mso-border-top-alt:none;border-bottom:none;
+mso-border-bottom-alt:none;"><p class="MsoNormal"><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><font face="Times New Roman">Analyze Data</font></span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td></tr><tr style="height:31.1000pt;"><td width="104" valign="top" rowspan="2" style="width:104.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
+border-top:none;mso-border-top-alt:none;border-bottom:none;"><p class="MsoNormal"><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><font face="Times New Roman">Prediction</font></span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="104" valign="top" style="width:104.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
+border-top:none;mso-border-top-alt:none;border-bottom:none;
+mso-border-bottom-alt:none;"><p class="MsoNormal"><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><font face="Times New Roman">Process_Data_Prepare_X_and_Y_for_Classification_and_Regressions</font></span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td></tr><tr style="height:16.7500pt;"><td width="104" valign="top" style="width:104.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
+border-top:none;mso-border-top-alt:none;border-bottom:none;
+mso-border-bottom-alt:none;"><p class="MsoNormal"><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><font face="Times New Roman">Analyze_Data_Machine_Learning_for_Predicting_Market_Congestion_ipynb</font></span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td></tr></tbody></table>
+### Explanation 
 - Data Source:
 - Queried Data
 - Processed Data
-- ...
+
+### Prediction
+
 
 
 ## Code

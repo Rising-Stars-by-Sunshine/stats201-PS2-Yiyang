@@ -10,7 +10,7 @@
   - [Application Scenario (Data Source)] Life expectancy in China from 1930 to 2021.
   - [Methodology] Linear regression analysis.
   - [Results] Natural disasters in 1960 have no significant impact on the change of life expectancy in China.
-  - [Intellectual Merits and Practical impacts of your project.] 
+  - [Intellectual Merits and Practical impacts of your project.] To prove that short-term natural disasters have less impact in the long run, efforts to improve human life span need to be made in other ways.
 
 ## Table of Contents
 <table class="MsoTableGrid" border="1" cellspacing="0" style="border-collapse:collapse;border:none;mso-border-left-alt:0.5000pt solid windowtext;

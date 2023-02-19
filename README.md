@@ -5,12 +5,12 @@
 - **Disclaimer**: Submissions to the Problem Set 2 for STATS201 Introduction to Machine Learning for Social Science, 2023 Spring Term (Seven Week - First) instructed by Prof. Luyao Zhang at Duke Kunshan University.
 - **Acknowledgments**: Thanks for Xintong Wu's encouragement and Shiran Yuan's suggestion on the selection of timeline.
 - **Project Summary**: 
-  - [Summarize the Background/Motivation]
-  - [Research Questions]
-  - [Application Scenario (Data Source)]
-  - [Methodology]
-  - [Results]
-  - [Intellectual Merits and Practical impacts of your project.]
+  - [Summarize the Background/Motivation]Living longer has always been a human quest. life expectancy in China drops significantly during natural disasters but then rises again. Does the occurrence of this event have an impact on the later life expectancy changes in China?
+  - [Research Questions] How did the natural disasters of 1960 affect life expectancy in China?
+  - [Application Scenario (Data Source)] Life expectancy in China from 1930 to 2021.
+  - [Methodology] Linear regression analysis.
+  - [Results] Natural disasters in 1960 have no significant impact on the change of life expectancy in China.
+  - [Intellectual Merits and Practical impacts of your project.] 
 
 ## Table of Contents
 <table class="MsoTableGrid" border="1" cellspacing="0" style="border-collapse:collapse;border:none;mso-border-left-alt:0.5000pt solid windowtext;

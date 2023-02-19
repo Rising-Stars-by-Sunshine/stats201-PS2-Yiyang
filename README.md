@@ -115,12 +115,9 @@ mso-font-kerning:1.0000pt;"><a href="https://github.com/Rising-Stars-by-Sunshine
 mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td></tr></tbody></table>
 
 ## Spotlight
-- Figures
-- Posters
-- Slides
-- Presentations
-- Review articles
-- Media appearance
+![image](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Yiyang/blob/main/spotlight/figures/Fig1.png)
+![image](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Yiyang/blob/main/spotlight/figures/Fig2.png)
+- The predicted and actual values have a high degree of fitting, and this event has little impact on life expectancy.
 
 ## References
 

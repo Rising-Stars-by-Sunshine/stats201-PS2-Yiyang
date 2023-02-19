@@ -74,10 +74,45 @@ mso-font-kerning:1.0000pt;"><a href="https://github.com/Rising-Stars-by-Sunshine
 mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td></tr></tbody></table>
 
 ## Code
-- Query Data
-- Process Data
-- Analyze Data
-- ...
+<table class="MsoNormalTable" border="0" cellspacing="0" style="border-collapse:collapse;margin-left:6.7500pt;mso-table-layout-alt:fixed;
+border:none;mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;"><tbody><tr style="height:31.1000pt;"><td width="104" valign="top" rowspan="3" style="width:104.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
+border-top:none;mso-border-top-alt:none;border-bottom:none;
+mso-border-bottom-alt:none;"><p class="MsoNormal" style="mso-pagination:widow-orphan;"><span style="font-family:'Times New Roman Regular';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;">Explanation</span><span style="font-family:'Times New Roman Regular';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="339" valign="top" style="width:339.7500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
+border-top:none;mso-border-top-alt:none;border-bottom:none;
+mso-border-bottom-alt:none;"><p class="MsoNormal" style="mso-pagination:widow-orphan;"><span style="font-family:'Times New Roman Regular';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;"><a href="https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Yiyang/blob/main/code/Query_Data.ipynb" title="Query_Data.ipynb">Query&nbsp;Data</a></span><span style="font-family:'Times New Roman Regular';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td></tr><tr style="height:31.1000pt;"><td width="339" valign="top" style="width:339.7500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
+border-top:none;mso-border-top-alt:none;border-bottom:none;
+mso-border-bottom-alt:none;"><p class="MsoNormal" style="mso-pagination:widow-orphan;"><span style="font-family:'Times New Roman Regular';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;"><a href="https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Yiyang/blob/main/code/Process_Data.ipynb" title="Process_Data.ipynb">Process&nbsp;Data</a></span><span style="font-family:'Times New Roman Regular';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;"><o:p></o:p></span></p><p class="MsoNormal" style="mso-pagination:widow-orphan;"><span style="font-family:'Times New Roman Regular';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;"><o:p>&nbsp;</o:p></span></p></td></tr><tr style="height:31.1000pt;"><td width="339" valign="top" style="width:339.7500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
+border-top:none;mso-border-top-alt:none;border-bottom:none;
+mso-border-bottom-alt:none;"><p class="MsoNormal" style="mso-pagination:widow-orphan;"><span style="font-family:'Times New Roman Regular';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;"><a href="https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Yiyang/blob/main/code/Analyze_Data_ipynb.ipynb" title="Analyze_Data_ipynb.ipynb">Analyze&nbsp;Data</a></span><span style="font-family:'Times New Roman Regular';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td></tr><tr style="height:31.1000pt;"><td width="104" valign="top" rowspan="2" style="width:104.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
+border-top:none;mso-border-top-alt:none;border-bottom:none;
+mso-border-bottom-alt:none;"><p class="MsoNormal" style="mso-pagination:widow-orphan;"><span style="font-family:'Times New Roman Regular';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;">Prediction</span><span style="font-family:'Times New Roman Regular';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="339" valign="top" style="width:339.7500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
+border-top:none;mso-border-top-alt:none;border-bottom:none;
+mso-border-bottom-alt:none;"><p class="MsoNormal" style="mso-pagination:widow-orphan;"><span style="font-family:'Times New Roman Regular';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;"><a href="https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Yiyang/blob/main/code/Process_Data_Prepare_X_and_Y_for_Classification_and_Regressions.ipynb">Process_Data_Prepare_X_and_Y_for_Regressions</a></span><span style="font-family:'Times New Roman Regular';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;"><o:p></o:p></span></p><p class="MsoNormal" style="mso-pagination:widow-orphan;"><span style="font-family:'Times New Roman Regular';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;"><o:p>&nbsp;</o:p></span></p></td></tr><tr style="height:16.7500pt;"><td width="339" valign="top" style="width:339.7500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
+border-top:none;mso-border-top-alt:none;border-bottom:none;
+mso-border-bottom-alt:none;"><p class="MsoNormal" style="mso-pagination:widow-orphan;"><span style="font-family:'Times New Roman Regular';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;"><a href="https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Yiyang/blob/main/code/Analyze_Data_Machine_Learning_for_Predicting_Market_Congestion_ipynb.ipynb">Analyze_Data_Machine_Learning_for_Predicting</a></span><span style="font-family:'Times New Roman Regular';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td></tr></tbody></table>
 
 ## Spotlight
 - Figures
@@ -90,13 +125,14 @@ mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td></tr></tbody></table>
 ## References
 
 ### Data Source
-- Data Source Title and URL
+- https://ourworldindata.org/life-expectancy
 ### Code Source
-- Code Source Title and URL
+- https://github.com/Rising-Stars-by-Sunshine/stats201-portfolio
+- https://github.com/sunshineluyao/design-principle-blockchain
+- https://github.com/Rising-Stars-by-Sunshine/stats201-tutorial-prediction
 ### Articles
-- Article Source Title and URL
+- https://ourworldindata.org/life-expectancy
+- https://www.sciencedirect.com/science/article/pii/S0953620522002266
 ### Literature
-- Literature References in [Chicago Author-Date](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) Style and [BibTex](https://scholar.google.com/) 
-
-Levin, Dan, and Luyao Zhang. 2020. “Bridging Level-K to Nash Equilibrium.” *The Review of Economics and Statistics* 104 (6): 1329–40. https://doi.org/10.1162/rest_a_00990.
+- You, Wenpeng, and Frank Donnelly. 2022. “Physician Care Access Plays a Significant Role in Extending Global and Regional Life Expectancy.” European Journal of Internal Medicine, June. https://doi.org/10.1016/j.ejim.2022.06.006.
 
